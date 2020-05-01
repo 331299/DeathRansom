@@ -1,5 +1,6 @@
 # DeathRansom
 Copyright (c) 2020 ReddyyZ
+> If you have any questions, enter in this discord group: https://discord.gg/v5d3PZ9
 
 ## What is a ransomware?
 
