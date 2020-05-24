@@ -1,5 +1,5 @@
 # DeathRansom
-Copyright (c) 2020 ReddyyZ
+
 # IT'S ONLY FOR STUDY. I'M NOT RESPONSIBLE FOR YOUR ACTIONS.
 ## If you have any questions, enter in this discord group: https://discord.gg/v5d3PZ9
 
